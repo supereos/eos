@@ -6,4 +6,4 @@ SuperEOS is a blockchain protocol based on EOS and COSMOS. SuperEOS combines the
 
 SuperEOS operates as a smart contract platform and decentralized operating system intended for the deployment of industrial-scale decentralized applications through a decentralized autonomous corporation model. It is designed to enable vertical and horizontal scaling of decentralized applications. The SuperEOS software provides accounts, authentication, databases, asynchronous communication and the scheduling of applications across multiple CPU cores and/or clusters. 
 
-SuperEOS would fork from EOS at height 68262092. Anyone holding EOS coin before the fork height would get the fork coin(SEOS).
+SuperEOS would fork from EOS at height 68262092. Anyone holding EOS coin before the fork height would get the fork coin(1 SEOS = 1 EOS).
